@@ -1,6 +1,6 @@
-<h1 align="center">👩‍💻 Суханов Темирлан | Android разработчик  </h1>
+<h1>👩‍💻 Суханов Темирлан | Android разработчик  </h1>
 
-### 🧑‍💻 О себе
+### 🎯 О себе
 
 - 🎓 Начинающий Android-разработчик, увлечён мобильной разработкой
 - 🌱 Учусь строить приложения с современными подходами: MVVM, Clean Architecture
@@ -11,12 +11,12 @@
 
 ### 🚀 Проекты
 
-#### 🎵 [PlaylistMaker1](https://github.com/Shiro2603/PlaylistMaker1)
+#### 🎵 [Playlist Maker](https://github.com/Shiro2603/PlaylistMaker1)
 > Приложение для поиска и создания плейлистов с треками, интеграцией с iTunes API и сохранением локальных данных.
 
 **Стек:** Kotlin, MVVM, Retrofit, Room, SharedPreferences, Material, Glide
 
-#### 🎓 [Kotlin Android Diploma](https://github.com/Sutemi67/Kotlin_Android_diploma)
+#### 🎓 [Android Diploma](https://github.com/Sutemi67/Kotlin_Android_diploma)
 > Командный дипломный проект — приложение для поиска работы с фильтрами по регионам и отраслям.
 
 **Моя роль:**  
@@ -28,7 +28,7 @@
 
 **Стек:** Kotlin, MVVM, Retrofit, Paging, ViewModel, Koin, XML, Room,
 
-#### 🛍 [Team2 Shopping List](https://github.com/nadinedenisova/team2_shopping_list/tree/release_1.0)
+#### 🛍 [Shopping List](https://github.com/nadinedenisova/team2_shopping_list/tree/release_1.0)
 > Командный проект — приложение для создания и управления списками покупок.
 
 **Моя роль:**  

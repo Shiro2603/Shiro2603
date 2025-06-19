@@ -1,6 +1,6 @@
 <h1>👩‍💻 Суханов Темирлан | Android разработчик  </h1>
 
-### 🎯 О себе
+### 🎯 О себе / About me
 
 - 🎓 Начинающий Android-разработчик, увлечён мобильной разработкой
 - 🌱 Учусь строить приложения с современными подходами: MVVM, Clean Architecture
@@ -49,7 +49,7 @@
 
 ---
 
-### 🛠 Технологии
+### 🛠 Технологии / Hard Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -78,7 +78,7 @@
 
 ---
 
-### 📊 GitHub Статистика
+### 📊 GitHub Статистика / GitHub Statistics
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=shiro2603&hide=contribs&show_icons=true&theme=dark-dracula">
@@ -87,7 +87,7 @@
 </div>
 <br clear="all" />
 
-### 📬 Контакты
+### 📬 Контакты / Contacts
 
 - Telegram: [@tsuhanov26](https://t.me/tsuhanov26) 
 - Email: tsuhanov26@gmail.com

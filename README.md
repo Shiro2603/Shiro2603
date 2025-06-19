@@ -10,7 +10,7 @@
 ---
 
 <details>
-  <summary><strong>🚀 Проекты / Projects</strong></summary>
+ <summary><h3>🚀 Проекты / Projects</h3></summary>
 
 <br>
 

@@ -9,34 +9,43 @@
 
 ---
 
-### 🚀 Проекты
+<details>
+  <summary><strong>🚀 Проекты / Projects</strong></summary>
 
-#### 🎵 [Playlist Maker](https://github.com/Shiro2603/PlaylistMaker1)
+<br>
+
+### 🎵 [Playlist Maker](https://github.com/Shiro2603/PlaylistMaker1)
 > Приложение для поиска и создания плейлистов с треками, интеграцией с iTunes API и сохранением локальных данных.
 
 **Стек:** Kotlin, MVVM, Retrofit, Room, SharedPreferences, Material, Glide
 
-#### 🎓 [Android Diploma](https://github.com/Sutemi67/Kotlin_Android_diploma)
+---
+
+### 🎓 [Android Diploma](https://github.com/Sutemi67/Kotlin_Android_diploma)
 > Командный дипломный проект — приложение для поиска работы с фильтрами по регионам и отраслям.
 
 **Моя роль:**  
-- Работа с экраном фильтров по отраслям
-- Настройка поиска
-- Сохранение состояния
-- Интеграция с ViewModel и StateFlow
+- Работа с экраном фильтров по отраслям  
+- Настройка поиска  
+- Сохранение состояния  
+- Интеграция с ViewModel и StateFlow  
 - Исправление багов
 
-**Стек:** Kotlin, MVVM, Retrofit, Paging, ViewModel, Koin, XML, Room,
+**Стек:** Kotlin, MVVM, Retrofit, Paging, ViewModel, Koin, XML, Room
 
-#### 🛍 [Shopping List](https://github.com/nadinedenisova/team2_shopping_list/tree/release_1.0)
+---
+
+### 🛍 [Shopping List](https://github.com/nadinedenisova/team2_shopping_list/tree/release_1.0)
 > Командный проект — приложение для создания и управления списками покупок.
 
 **Моя роль:**  
-- Архитектура MVI
-- Реализация экранов и UI-состояний
+- Архитектура MVI  
+- Реализация экранов и UI-состояний  
 - Сохранение и отображение списков
 
 **Стек:** Kotlin, Jetpack Compose, Room, Navigation, Sqldelight, Hilt
+
+</details>
 
 ---
 
